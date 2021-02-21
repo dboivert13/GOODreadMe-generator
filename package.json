@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/dboivert13/homework-9-readMe-generator#readme",
   "dependencies": {
-    "inquirer": "^7.3.3"
+    "inquirer": "^7.3.3",
+    "util": "^0.12.3",
+    "utils": "^0.3.1"
   }
 }
